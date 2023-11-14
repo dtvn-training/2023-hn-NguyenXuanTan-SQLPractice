@@ -1,1 +1,1 @@
-# 2023-hn-NguyenXuanTan-practiceSQL
+# 2023-hn-NguyenXuanTan-SQLPractice
